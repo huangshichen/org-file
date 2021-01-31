@@ -1,0 +1,22 @@
+* Victor Alhassan and Christopher Henry and Sheela Ramanna and Christopher Storie (2019): A deep learning framework for land-use/land-cover mapping and analysis using multispectral satellite imagery
+:PROPERTIES:
+:Custom_id: Alhassan_2019
+:END:
+
+
+224*224*6 satellite images test on FCN-[VGG-16, ResNet-101, GoogLeNet]
+
+
+dataset used in this work was originally described in sometext, and is briefly described here
+
+learning rate: 10^-4, 10^-5, 10^-9. 10^-4 get the best result for first 100 epochs, and reducing the learning rate to 10^-5 for another 100 epochs
+
+train smaples: 18,054 images.
+validation: 958 images.
+
+
+| input     | output    | size of region | dataset     | pixel   |
+|-----------+-----------+----------------+-------------+---------|
+| <c>       | <c>       | <c>            | <c>         | <c>     |
+| 224*224*6 | 18 labels | 148,800 km^2   | Landsat 5/7 | 30m*30m |
+|           |           |                |             |         |

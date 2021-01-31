@@ -1,0 +1,25 @@
+* Maria Aspri and Grigorios Tsagkatakis and Panagiotis Tsakalides (2020): Distributed Training and Inference of Deep Learning Models for Multi-Modal Land Cover Classification
+:PROPERTIES:
+:Custom_id: Aspri_2020
+:END:
+
+preprocessing:
++ Images are merged by VHR-RGB and HSI tiles, and resized patches of size 25*25 along with HSI image to match the size of ground turth data.
++ samples are cropped out by sliding through images with size 25*25 window.
++ 8000samples.
++ 400
+
+dataset:
+dataset was collected by NCALM, contains huperspectral(HSI) and Very High Resolution RGB imagery(VHR-RGB)
+
+
+model:
+[[./aspri_2020/1.png][parameters of multi-model network]]
+
+learning rate: 0.003
+batch size: 40, and test on 50, 200
+
+| input    | output    | size of region | dataset        | pixel     |
+|----------+-----------+----------------+----------------+-----------|
+| <c>      | <c>       | <c>            | <c>            | <c>       |
+| 25*25*3? | 20 labels | 171.93km^2     | see in dataset | 0.5m*0.5m |
