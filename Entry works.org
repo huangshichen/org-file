@@ -1,0 +1,58 @@
+#+title: Entry works
+#+author: Shichen Huang
+
+* TODO Entry management
+
+
+** DONE [C]search and download entries by Google Scholar
+   CLOSED: [2021-01-27 三 08:05]
+   :LOGBOOK:
+   CLOCK: [2021-01-28 四 21:29]--[2021-01-28 四 22:49] =>  1:20
+   - State "DONE"       from "TODO"       [2021-01-27 三 08:05]
+   CLOCK: [2021-01-26 二 10:15]--[2021-01-26 二 10:49] =>  0:34
+   :END:
+Input: keywords.
+Output: entries information(Author, Title, Citations, Year, Source)
+
+** DONE [C]Get doi by entry information
+   CLOSED: [2021-01-28 四 11:23]
+   :LOGBOOK:
+   - State "DONE"       from              [2021-01-28 四 11:23]
+   :END:
+Input: entries information(Author, Title, Citations, Year, Source)
+Ooutput: doi of entries information
+
+*** HOLD [L]scholarly(package of python)
+   :LOGBOOK:
+   CLOCK: [2021-01-26 二 12:45]--[2021-01-26 二 12:55] =>  0:10
+   :END:
+I can't use it.
+
+*** HOLD [L]PyPaperBot(package of python)
+   :LOGBOOK:
+   CLOCK: [2021-01-26 二 13:00]--[2021-01-26 二 13:09] =>  0:09
+   :END:
+I can't use it
+
+*** DONE [C]title2bib(package of python)
+   CLOSED: [2021-01-26 二 23:25]
+   :LOGBOOK:
+   - State "DONE"       from "HOLD"       [2021-01-26 二 23:25]
+   CLOCK: [2021-01-26 二 13:44]--[2021-01-26 二 15:34] =>  1:50
+   CLOCK: [2021-01-26 二 13:10]--[2021-01-26 二 13:27] =>  0:17
+   :END:
+It's not very easy to use
+
+*** DONE [L]getarticle(package of python)
+   CLOSED: [2021-01-26 二 23:25]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2021-01-26 二 23:25]
+   CLOCK: [2021-01-26 二 22:10]--[2021-01-26 二 23:12] =>  1:02
+   :END:
+good package, we can get doi from Source
+
+
+** TODO [C]Get pdf by entry doi
+   :LOGBOOK:
+   CLOCK: [2021-01-28 四 14:09]--[2021-01-28 四 15:45] =>  1:36
+   :END:

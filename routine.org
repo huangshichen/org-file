@@ -1,0 +1,91 @@
+* PROJECT Leetcode
+
+** DONE [C]674
+   CLOSED: [2021-01-24 日 11:59]
+   :LOGBOOK:
+   - State "DONE"       from              [2021-01-24 日 11:59]
+   CLOCK: [2021-01-24 日 11:20]--[2021-01-24 日 11:22] =>  0:02
+   :END:
+
+** DONE [C]791
+   CLOSED: [2021-01-24 日 11:59]
+   :LOGBOOK:
+   - State "DONE"       from              [2021-01-24 日 11:59]
+   CLOCK: [2021-01-24 日 11:26]--[2021-01-24 日 11:33] =>  0:07
+   :END:
+
+** HOLD [C]539
+   :LOGBOOK:
+   CLOCK: [2021-01-24 日 11:38]--[2021-01-24 日 12:02] =>  0:24
+   :END:
+
+** WAITING [C]1371
+   :LOGBOOK:
+   CLOCK: [2021-01-25 一 15:08]--[2021-01-25 一 15:31] =>  0:23
+   :END:
+
+
+
+** DONE [C]287
+   CLOSED: [2021-01-26 日 11:10]
+   :LOGBOOK:
+   - State "DONE"       from              [2021-01-26 日 11:10]
+   CLOCK: [2021-01-26 日 11:10]--[2021-01-26 日 11:14] =>  0:07
+   :END:
+
+** DONE [C]1128
+   CLOSED: [2021-01-26 二 17:26]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2021-01-26 二 17:26]
+   :END:
+
+** DONE [C]1684
+   CLOSED: [2021-01-27 三 11:14]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2021-01-27 三 11:14]
+   CLOCK: [2021-01-27 三 11:05]--[2021-01-27 三 11:13] =>  0:08
+   :END:
+
+** DONE [C]258
+   CLOSED: [2021-01-28 四 17:47]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2021-01-28 四 17:47]
+   CLOCK: [2021-01-27 三 11:14]--[2021-01-27 三 11:40] =>  0:26
+   :END:
+** [C]724
+   :LOGBOOK:
+   CLOCK: [2021-01-28 四 17:48]
+   :END:
+
+
+* PROJECT Emacs
+
+** NEXT [L]ebib: A BibTeX database manager for Emacs
+   :LOGBOOK:
+   CLOCK: [2021-01-27 三 10:34]--[2021-01-27 三 11:01] =>  0:27
+   CLOCK: [2021-01-25 一 10:45]--[2021-01-25 一 11:03] =>  0:18
+   :END:
+*** a .bib file can be opened in emacs.
+*** insert, delete and modify the .bib file.
+
+** DONE [L]dictionary: A English to English dictionary
+   :LOGBOOK:
+   CLOCK: [2021-01-25 一 10:44]--[2021-01-25 一 10:45] =>  0:01
+
+   :END:
+** DONE [L]pdf: open file directory
+   CLOSED: [2021-01-25 一 17:09]
+   :LOGBOOK:
+   CLOCK: [2021-01-25 一 16:44]--[2021-01-25 一 17:09] =>  0:25
+   :END:
+
+
+
+
+* PROJECT Others
+** DONE [O]find some text for my father
+  CLOSED: [2021-01-23 六 09:52]
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2021-01-23 六 09:52]
+  CLOCK: [2021-01-23 六 08:20]--[2021-01-23 六 09:41] =>  1:21
+  :END:

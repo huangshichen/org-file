@@ -1,0 +1,83 @@
+#+title: Landcover_aging_GANs
+#+author: Shichen Huang
+
+
+* 文字部份
+
+* 图表部份
+
+
+
+* code
+
+需要写一个跟据Generator的输出判断输出精度。
+** DONE [L]understand the input and output of the function of Dataprocess
+    CLOSED: [2021-01-24 日 15:11]
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2021-01-24 日 15:11]
+    CLOCK: [2021-01-24 日 14:17]--[2021-01-24 日 15:11] =>  0:54
+    CLOCK: [2021-01-24 日 09:09]--[2021-01-24 日 10:47] =>  1:38
+    :END:
+** HOLD [C]metric a MSE function between two matrixs as [-1,1,img_size,img_size] [write a funcion in PYTHON]
+    :LOGBOOK:
+    CLOCK: [2021-01-24 日 15:30]--[2021-01-24 日 16:01] =>  0:31
+    :END:
+
+** DONE [L]read the code of test part
+   CLOSED: [2021-01-24 日 22:21]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2021-01-24 日 22:21]
+   CLOCK: [2021-01-24 日 20:19]--[2021-01-24 日 22:21] =>  2:02
+   :END:
+
+** TODO [S]find articles which deal with landcover dataset use neurel netwroks
+
+
+
+* reference
+** make a bib file named 'landcover aging GANS.bib'
+
+
+
+
+
+
+* 工作日志
+  :LOGBOOK:
+  :END:
+#+BEGIN: clocktable :scope ("landcover_aging_GANs.org" "Entry works.org" "English.org" "routine.org")
+#+CAPTION: Clock summary at [2021-01-28 四 15:59]
+| File                     | Headline                                     | Time  |      |
+|--------------------------+----------------------------------------------+-------+------|
+|                          | ALL *Total time*                               | *14:49* |      |
+|--------------------------+----------------------------------------------+-------+------|
+| landcover_aging_GANs.org | *File time*                                    | *5:05*  |      |
+|                          | code                                         | 5:05  |      |
+|                          | \_  [L]understand the input and output of... |       | 2:32 |
+|                          | \_  [C]metric a MSE function between two...  |       | 0:31 |
+|                          | \_  [L]read the code of test part            |       | 2:02 |
+|--------------------------+----------------------------------------------+-------+------|
+| Entry works.org          | *File time*                                    | *5:38*  |      |
+|                          | Entry management                             | 5:38  |      |
+|                          | \_  [C]search and download entries by...     |       | 0:34 |
+|                          | \_  [C]Get doi by entry information          |       | 3:28 |
+|                          | \_  [C]Get pdf by entry doi                  |       | 1:36 |
+|--------------------------+----------------------------------------------+-------+------|
+| English.org              | *File time*                                    | *0:00*  |      |
+|--------------------------+----------------------------------------------+-------+------|
+| routine.org              | *File time*                                    | *4:06*  |      |
+|                          | Leetcode                                     | 1:34  |      |
+|                          | \_  [C]674                                   |       | 0:02 |
+|                          | \_  [C]791                                   |       | 0:07 |
+|                          | \_  [C]539                                   |       | 0:24 |
+|                          | \_  [C]1371                                  |       | 0:23 |
+|                          | \_  [C]287                                   |       | 0:04 |
+|                          | \_  [C]1684                                  |       | 0:08 |
+|                          | \_  [C]258                                   |       | 0:26 |
+|                          | Emacs                                        | 1:11  |      |
+|                          | \_  [L]ebib: A BibTeX database manager...    |       | 0:45 |
+|                          | \_  [L]dictionary: A English to English...   |       | 0:01 |
+|                          | \_  [L]pdf: open file directory              |       | 0:25 |
+|                          | Others                                       | 1:21  |      |
+|                          | \_  [O]find some text for my father          |       | 1:21 |
+#+END:
